@@ -9,7 +9,7 @@ label_encoders = joblib.load('models_files/label_encoders.pkl')
 preprocessor = joblib.load('models_files/onehot_preprocessor.pkl')
 scaler = joblib.load('models_files/scaler.pkl')
 
-df = pd.read_csv("dataset/laptop_price.csv")
+df = pd.read_csv("dataset/laptop_price.csv",encoding='latin-1')
 
 st.title("Laptop Price Predictor")
 st.write("Enter your laptop specs to to get a predicted price")
