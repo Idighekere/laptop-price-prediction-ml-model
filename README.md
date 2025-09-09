@@ -18,13 +18,37 @@ This project predicts the price of laptops using machine learning, based on thei
 - `requirements.txt`: Python dependencies.
 - `report.docx`: Project summary and usage guide.
 
-## Getting Started
-1. Clone the repository.
-2. Install dependencies:
-   `pip install -r requirements.txt`
-3. Run the Streamlit app:
-   `streamlit run app.py`
-4. Open the app in your browser and input laptop features to predict prices.
+## Running the Streamlit Application
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Idighekere/laptop-price-prediction-ml-model
+cd laptop-price-prediction-ml-model
+```
+
+### 2. Install requirements
+Make sure you have Python 3.7+ installed. Install required libraries:
+```bash
+pip install -r requirements.txt
+```
+or manually:
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn streamlit
+```
+
+### 3. Run the Streamlit app
+```bash
+streamlit run app.py
+```
+
+By default, this will launch the app in your web browser at [http://localhost:8501](http://localhost:8501).
+
+## Usage
+
+- Fill in the required laptop specs in the form.
+- Click the **Predict Price** button.
+- The model returns the predicted laptop price instantly.
+
 
 ## System Requirements
 - Python 3.8+
