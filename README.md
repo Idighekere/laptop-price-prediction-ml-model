@@ -68,10 +68,10 @@ By default, this will launch the app in your web browser at [http://localhost:85
 - [Nlemedim, Richard, Chinwemeri ](https://github.com/richard-nlemedim)
 - [Ukpong, Semaediong Francis](https://github.com/Semaediong01)
 - [Umoh, Ubongabasi Nyeneime](https://github.com/ubongabasiumoh266-cpu)
-- [Akpan Hope Idoroyie]()
-- [Umanah Anammbiet Pius]()
-- [Sam, Henry Emmanuel]()
-- [Urua, Edikan Usen]()
+- [Akpan Hope Idoroyie](https://github.com/Hope04101)
+- [Umanah Anammbiet Pius](https://github.com/umanahpius)
+- [Sam, Henry Emmanuel](https://github.com/Henrytheefirst)
+- [Urua, Edikan Usen](https://github.com/limmrax)
 
 ## License
 [MIT](LICENSE)
